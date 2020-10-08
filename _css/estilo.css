@@ -46,6 +46,7 @@ header#cabecalho h1 {
     text-shadow: 1px 1px 1px rgba(0, 0, 0, .6);
     padding: 0px;
     margin-bottom: 0px;
+    margin-top: 45px;
 }
 
 header#cabecalho h2 {
@@ -59,7 +60,7 @@ header#cabecalho h2 {
 header#cabecalho img#icone {
     position: absolute;
     left: 1000px;
-    top: 70px;
+    top: 90px;
 }
 
 
